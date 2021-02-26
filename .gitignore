@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/reconstruction/.vs
+/reconstruction/__pycache__
+*.sgy
+*.pyproj
+*.user
+*.sln
+*.sh
+*.json
+*.zip
+*.out
