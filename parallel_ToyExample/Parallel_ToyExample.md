@@ -79,6 +79,10 @@ Parallel version:
     mpic++ parallel_ToyExample.cpp -lstdc++ -std=c++11 \
            -o parallel_ToyExample.out 
 
+Alternative (with MPICH)
+
+    make all
+
 **Execute**
 
 Serial version:
